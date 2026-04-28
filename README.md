@@ -189,5 +189,5 @@ Este projeto demonstra como a Inteligência Artificial pode ser utilizada não a
 
 Acesse o caderno interativo desenvolvido com Inteligência Artificial:
 
-👉 [Abrir NotebookLM](.https://notebooklm.google.com/notebook/b1d7d064-fa99-4869-9cf9-7f7f59007804/preview)
+👉  [Abrir NotebookLM](https://notebooklm.google.com/notebook/b1d7d064-fa99-4869-9cf9-7f7f59007804/preview)
 ---
