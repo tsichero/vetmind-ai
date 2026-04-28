@@ -1,20 +1,20 @@
-# 🧠 Inteligência Artificial Aplicada à Medicina Veterinária
+<p align="center">
+  <img src="./assets/capa.png" width="700"/>
+</p>
 
-### 🚀 Caderno Temático com NotebookLM
+<h1 align="center">🧠 Inteligência Artificial Aplicada à Medicina Veterinária</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Veterinary-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NotebookLM-Study_System-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Em_Desenvolvimento-green?style=for-the-badge" />
+🚀 Caderno Temático com NotebookLM
 </p>
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este projeto explora o uso da Inteligência Artificial como ferramenta de **aprendizagem ativa, suporte ao raciocínio clínico e tomada de decisão na Medicina Veterinária**.
+Este projeto explora o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, suporte ao raciocínio clínico e tomada de decisão na Medicina Veterinária.
 
-Através do NotebookLM, foi desenvolvido um **caderno temático estruturado**, baseado em curadoria de fontes científicas e aplicação de engenharia de prompts.
+Através do NotebookLM, foi desenvolvido um caderno temático estruturado, baseado em curadoria de fontes científicas e aplicação de engenharia de prompts.
 
 ---
 
@@ -23,14 +23,14 @@ Através do NotebookLM, foi desenvolvido um **caderno temático estruturado**, b
 * 🧠 Integrar IA ao processo de estudo clínico
 * 🔍 Desenvolver pensamento crítico sobre respostas da IA
 * ⚙️ Aplicar engenharia de prompts de forma estratégica
-* 📊 Criar um sistema de aprendizado reutilizável (segundo cérebro)
+* 📊 Criar um sistema de aprendizagem reutilizável (segundo cérebro)
 * 🩺 Explorar aplicações reais da IA na prática veterinária
 
 ---
 
 ## 🧠 Estrutura do Projeto
 
-```bash
+```
 📁 caderno-ia-veterinaria
  ├── README.md
  ├── 📁 fontes
@@ -45,27 +45,27 @@ Através do NotebookLM, foi desenvolvido um **caderno temático estruturado**, b
 ### 🩺 Aplicações Clínicas e Diagnóstico
 
 * A Revolução da Inteligência Artificial no Diagnóstico Veterinário
-* AI in Veterinary Radiology and Diagnostic Imaging
-* Artificial Intelligence in Veterinary Clinical Pathology
-* AI & Predictive Analytics in Veterinary Medicine
-* Pet Health and AI
+* Inteligência Artificial em Radiologia Veterinária e Diagnóstico por Imagem
+* Inteligência Artificial em Patologia Clínica Veterinária
+* Inteligência Artificial e Análise Preditiva na Medicina Veterinária
+* Saúde Animal e IA
 
 ### 🔬 Estudos Científicos
 
-* Machine-learning score for bacteremia prediction - ImpriMed
-* Future Trends in AI-Assisted Veterinary Medicine - PMC
+* Pontuação de aprendizado de máquina para previsão de bacteremia - ImpriMed
+* Tendências Futuras na Medicina Veterinária Assistida por IA - PMC
 
 ### 🚀 Mercado e Inovação
 
 * Startups brasileiras de IA 2026
-* Pet Techs 2024 - Liga Ventures
-* AI Animal Health Market Report
+* Tecnologias para animais de estimação 2024 - Liga Ventures
+* Relatório de mercado de IA para saúde animal
 
 ### ⚠️ Riscos e Erros Diagnósticos
 
 * Erros comuns no diagnóstico veterinário
 * Falhas em laudos veterinários
-* Regulatory Gap in Veterinary AI
+* Lacuna regulatória na IA veterinária
 
 ---
 
@@ -73,21 +73,15 @@ Através do NotebookLM, foi desenvolvido um **caderno temático estruturado**, b
 
 ### 🔹 Prompt Estratégico
 
-```text
 Analise o uso de IA no diagnóstico veterinário comparando com o raciocínio clínico tradicional, incluindo vantagens, limitações e riscos.
-```
 
 ### 🔹 Prompt Avançado
 
-```text
 Com base nas fontes fornecidas, identifique vieses e erros comuns no uso de IA em diagnósticos veterinários.
-```
 
-### 🔹 Prompt Especialista
+### 🔹 Especialista
 
-```text
 Atue como especialista em Medicina Veterinária e IA. Estruture uma análise clínica completa com base em dados fornecidos.
-```
 
 ---
 
@@ -128,7 +122,7 @@ A Inteligência Artificial atua como suporte ao raciocínio clínico, auxiliando
 
 ### 🚨 Riscos
 
-* Diagnóstico incorreto
+* Diagnósticos incorretos
 * Uso inadequado da IA
 * Confiança excessiva
 
@@ -136,12 +130,10 @@ A Inteligência Artificial atua como suporte ao raciocínio clínico, auxiliando
 
 ## 🧩 Prompts Reutilizáveis
 
-```text
-Explique [tema] em nível básico e avançado
-Quais são aplicações práticas de [tema]?
-Compare [conceito A] vs [conceito B]
-Quais erros podem ocorrer nesse diagnóstico?
-```
+* Explique [tema] em nível básico e avançado
+* Quais são aplicações práticas de [tema]?
+* Compare [conceito A] vs [conceito B]
+* Quais erros podem ocorrer nesse diagnóstico?
 
 ---
 
@@ -159,7 +151,7 @@ Quais erros podem ocorrer nesse diagnóstico?
 
 ## 🚀 Insights Estratégicos
 
-A IA não substitui o médico veterinário — ela **potencializa sua capacidade de decisão**.
+A IA não substitui o médico veterinário — ela potencializa sua capacidade de decisão.
 
 ---
 
@@ -181,6 +173,8 @@ Médica Veterinária | Especialista em IA | Criadora de conteúdo
 
 ## ⭐ Conclusão
 
-Este projeto demonstra como a Inteligência Artificial pode ser utilizada não apenas como ferramenta, mas como **amplificador de aprendizado e inteligência clínica**.
+Este projeto demonstra como a Inteligência Artificial pode ser utilizada não apenas como ferramenta, mas como amplificador de aprendizado e inteligência clínica.
+
+---
 
 ---
