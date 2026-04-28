@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="./assets/capa.png" width="700"/>
+  <img src="./capa.png" width="700"/>
 </p>
+
+<h1 align="center">🧠 Inteligência Artificial Aplicada à Medicina Veterinária</h1>
+
+<p align="center">
+🚀 Caderno Temático com NotebookLM
+</p>
+
+---
 
 <h1 align="center">🧠 Inteligência Artificial Aplicada à Medicina Veterinária</h1>
 
