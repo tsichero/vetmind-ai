@@ -10,11 +10,6 @@
 
 ---
 
-<h1 align="center">🧠 Inteligência Artificial Aplicada à Medicina Veterinária</h1>
-
-<p align="center">
-🚀 Caderno Temático com NotebookLM
-</p>
 
 ---
 
