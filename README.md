@@ -185,5 +185,9 @@ Médica Veterinária | Especialista em IA | Criadora de conteúdo
 Este projeto demonstra como a Inteligência Artificial pode ser utilizada não apenas como ferramenta, mas como amplificador de aprendizado e inteligência clínica.
 
 ---
+## 🧠 NotebookLM
 
+Acesse o caderno interativo desenvolvido com Inteligência Artificial:
+
+👉 [Abrir NotebookLM](.https://notebooklm.google.com/notebook/b1d7d064-fa99-4869-9cf9-7f7f59007804/preview)
 ---
