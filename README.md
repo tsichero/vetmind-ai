@@ -2,19 +2,22 @@
   <img src="./capa.png" width="700"/>
 </p>
 
-<h1 align="center">🧠 Inteligência Artificial Aplicada à Medicina Veterinária</h1>
+<h1 align="center">🧠 VetMind AI</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Veterinary-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NotebookLM-Study_System-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+Inteligência Artificial aplicada à Medicina Veterinária
 </p>
+
 <p align="center">
 🚀 Caderno Temático com NotebookLM
 </p>
 
 ---
+
 <p align="center">
-Transformando conhecimento clínico em decisões mais inteligentes com Inteligência Artificial
+  <img src="https://img.shields.io/badge/AI-Veterinary-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NotebookLM-Study_System-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
 </p>
 
 ---
@@ -39,8 +42,8 @@ Através do NotebookLM, foi desenvolvido um caderno temático estruturado, basea
 
 ## 🧠 Estrutura do Projeto
 
-```
-📁 caderno-ia-veterinaria
+```bash
+📁 vetmind-ai
  ├── README.md
  ├── 📁 fontes
  ├── 📁 resumos
@@ -49,46 +52,39 @@ Através do NotebookLM, foi desenvolvido um caderno temático estruturado, basea
 
 ---
 
-## 📚 Curadoria de Fontes
+## 📁 Navegação Rápida
 
-### 🩺 Aplicações Clínicas e Diagnóstico
+* 📂 [Prompts](./prompts/prompts.md)
+* 📂 [Resumos](./resumos/miniguia.md)
+* 📂 [Fontes](./fontes/fontes.md)
 
-* A Revolução da Inteligência Artificial no Diagnóstico Veterinário
-* Inteligência Artificial em Radiologia Veterinária e Diagnóstico por Imagem
-* Inteligência Artificial em Patologia Clínica Veterinária
-* Inteligência Artificial e Análise Preditiva na Medicina Veterinária
-* Saúde Animal e IA
+---
 
-### 🔬 Estudos Científicos
+## 🧠 NotebookLM
 
-* Pontuação de aprendizado de máquina para previsão de bacteremia - ImpriMed
-* Tendências Futuras na Medicina Veterinária Assistida por IA - PMC
+👉 [Abrir NotebookLM](https://notebooklm.google.com/notebook/b1d7d064-fa99-4869-9cf9-7f7f59007804/preview)
 
-### 🚀 Mercado e Inovação
+---
 
-* Startups brasileiras de IA 2026
-* Tecnologias para animais de estimação 2024 - Liga Ventures
-* Relatório de mercado de IA para saúde animal
-
-### ⚠️ Riscos e Erros Diagnósticos
-
-* Erros comuns no diagnóstico veterinário
-* Falhas em laudos veterinários
-* Lacuna regulatória na IA veterinária
+⚠️ Pode ser necessário login com conta Google para visualizar o conteúdo.
 
 ---
 
 ## ⚙️ Engenharia de Prompts
 
-### 🔹 Prompt Estratégico
+**Prompt Estratégico:**
 
 Analise o uso de IA no diagnóstico veterinário comparando com o raciocínio clínico tradicional, incluindo vantagens, limitações e riscos.
 
-### 🔹 Prompt Avançado
+---
+
+**Prompt Avançado:**
 
 Com base nas fontes fornecidas, identifique vieses e erros comuns no uso de IA em diagnósticos veterinários.
 
-### 🔹 Especialista
+---
+
+**Prompt Especialista:**
 
 Atue como especialista em Medicina Veterinária e IA. Estruture uma análise clínica completa com base em dados fornecidos.
 
@@ -160,7 +156,7 @@ A Inteligência Artificial atua como suporte ao raciocínio clínico, auxiliando
 
 ## 🚀 Insights Estratégicos
 
-A IA não substitui o médico veterinário — ela potencializa sua capacidade de decisão.
+A Inteligência Artificial não substitui o médico veterinário — ela potencializa sua capacidade de decisão.
 
 ---
 
@@ -176,7 +172,7 @@ A IA não substitui o médico veterinário — ela potencializa sua capacidade d
 ## 👩‍💻 Autora
 
 **Tainã Sichero Dulcetti**
-Médica Veterinária | Especialista em IA | Criadora de conteúdo
+Médica Veterinária | Especialista em Inteligência Artificial
 
 ---
 
@@ -184,10 +180,4 @@ Médica Veterinária | Especialista em IA | Criadora de conteúdo
 
 Este projeto demonstra como a Inteligência Artificial pode ser utilizada não apenas como ferramenta, mas como amplificador de aprendizado e inteligência clínica.
 
----
-## 🧠 NotebookLM
-
-Acesse o caderno interativo desenvolvido com Inteligência Artificial:
-
-👉  [Abrir NotebookLM](https://notebooklm.google.com/notebook/b1d7d064-fa99-4869-9cf9-7f7f59007804/preview)
 ---
