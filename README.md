@@ -3,13 +3,19 @@
 </p>
 
 <h1 align="center">🧠 Inteligência Artificial Aplicada à Medicina Veterinária</h1>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Veterinary-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NotebookLM-Study_System-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+</p>
 <p align="center">
 🚀 Caderno Temático com NotebookLM
 </p>
 
 ---
-
+<p align="center">
+Transformando conhecimento clínico em decisões mais inteligentes com Inteligência Artificial
+</p>
 
 ---
 
